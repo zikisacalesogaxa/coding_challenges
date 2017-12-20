@@ -13,8 +13,8 @@ module.exports = (arr) => {
             } else {
                 let theArr = [];
 
-                while (numberMap[key] !== theArr.length) { theArr.push(key); }
-                for(let number of theArr) { newArr.push(number); }
+                while (numberMap[key] !== theArr.length) theArr.push(key);
+                for(let number of theArr) newArr.push(number);
             }
         }
 
