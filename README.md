@@ -9,7 +9,7 @@ Function code challenges and tets
 
 **Functions**
 
-    * Caltulator - self explainitory
+    * caltulator - self explainitory
     * firstDuplicate - given a string, it returns the first letter with its first duplicate in smaller index
     * firstNonDuplicate - given a string, it returns the first encountered letter that does not have a duplicate
     * firstSwap - gieven an array, swaps the first and second indexes
@@ -17,7 +17,9 @@ Function code challenges and tets
     * lastSwap - given an array, swaps the last index and first index
     * sortArr - given an array of numbers, returns the sorted number in ascending order without the use of the sort built in function
     * totalAmount - given an array of numbers, returns the sum of all the numbers
-    * vowelsCount - given an array of numbers and/or vowels, it retunrs the number of vowels
+    * vowelsCount - given an array of numbers and/or vowels, it returns the number of vowels
+    * lastFiveChars - given a string of either numbers or mixed, it returns the last five characters of the string
+    * findByLastFiveChars - given a list of users with IDs, it returns the one that matches the passed in five characters
 
 * Prerequisites
 
