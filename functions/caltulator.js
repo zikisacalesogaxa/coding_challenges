@@ -1,12 +1,12 @@
-module.exports = (a, b, sign) => {
-    if (sign === 'add') {
+module.exports = (a, sign, b) => {
+    if (sign === '+') {
         return a + b;
-    } else if (sign === 'multiply') {
+    } else if (sign === '*') {
         return a * b;
-    } else if (sign === 'devide') {
+    } else if (sign === '/') {
         let x = a / b;
         return x.toFixed(2);
-    } else if (sign === 'subtract') {
+    } else if (sign === '-') {
         return a - b;
     }
 }
