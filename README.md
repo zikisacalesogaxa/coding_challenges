@@ -20,6 +20,7 @@ Function code challenges and tets
     * vowelsCount - given an array of numbers and/or vowels, it returns the number of vowels
     * lastFiveChars - given a string of either numbers or mixed, it returns the last five characters of the string
     * findByLastFiveChars - given a list of users with IDs, it returns the one that matches the passed in five characters
+    * camelCase - given a string it should return it in camel case
 
 * Prerequisites
 
