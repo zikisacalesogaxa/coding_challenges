@@ -30,7 +30,7 @@ Function code challenges and tests
 ## Getting Started ##
 
 ```sh
-git clone [git repo]
+git clone https://github.com/cale312/coding_challenges.git
 ```
 
 **Installing the dependencies**
