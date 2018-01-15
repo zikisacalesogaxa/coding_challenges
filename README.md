@@ -1,6 +1,6 @@
 # Coding Challenges
 
-Function code challenges and tets
+Function code challenges and tests
 
 ## Folders
 
