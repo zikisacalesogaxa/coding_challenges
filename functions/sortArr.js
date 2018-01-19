@@ -4,7 +4,7 @@ module.exports = (arr) => {
     if (arr.length > 1) {
         
         arr.forEach(number => {
-            (numberMap[number] === undefined) ? numberMap[number] = 1 : numberMap[number]++;
+            (numberMap[number] === undefined) ? numberMap[number] = 1 : numberMap[number] += 1;
         });
         
         for (let key in numberMap) {

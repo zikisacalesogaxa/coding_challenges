@@ -1,10 +1,10 @@
 module.exports = (string) => {
     let letterMap = {};
     for(let letter of string) {
-        (letterMap[letter] === undefined) ? letterMap[letter] = 1 : letterMap[letter]++;
+        (letterMap[letter] === undefined) ? letterMap[letter] = 1 : letterMap[letter] += 1;
     }
     
-    for (var letter in letterMap) {
+    for (let letter in letterMap) {
         if (letterMap[letter] === 1) {
             return letter;
         }
