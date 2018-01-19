@@ -26,6 +26,7 @@ Function code challenges and tests
 * Prerequisites
 
     * [Mocha](https://www.mocha.org)
+    * [Node](https://www.node.com)
 
 ## Getting Started ##
 
@@ -41,7 +42,7 @@ Open terminal and navigate to the cloned folder and run commands
 npm install -g
 ```
 
-* Running the tests
+**Running the tests**
 
 ```sh
 mocha

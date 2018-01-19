@@ -5,5 +5,5 @@ module.exports = (word, words) => {
         let y = element.split('').sort().join('');
         (x === y) ? anagrams.push(element) : false;
     });
-    return anagrams
+    return anagrams;
 }
