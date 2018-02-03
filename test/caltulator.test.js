@@ -1,5 +1,5 @@
 const assert = require('assert');
-const caltulate = require('../functions/caltulator');
+const caltulate = require('../libs/caltulator');
 
 describe('caltulator function tests', () => {
 

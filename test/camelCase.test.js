@@ -1,5 +1,5 @@
 const assert = require('assert');
-const camelCase = require('../functions/camelCase');
+const camelCase = require('../libs/camelCase');
 
 describe('camel case function tests', () => {
 

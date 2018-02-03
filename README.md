@@ -4,10 +4,10 @@ Function code challenges and tests
 
 ## Folders
 
-   * functions
+   * libs
    * test
 
-## Functions
+## libs
 
    * **caltulator** - self explainitory
    * **firstDuplicate** - given a string, it returns the first letter with its first duplicate in smaller index

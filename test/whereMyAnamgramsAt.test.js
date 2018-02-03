@@ -1,5 +1,5 @@
 const assert = require('assert');
-const anagrams = require('../functions/whereMyAnagramsAt');
+const anagrams = require('../libs/whereMyAnagramsAt');
 
 describe('where my anagrams at function tests', () => {
 

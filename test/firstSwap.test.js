@@ -1,5 +1,5 @@
 const assert = require('assert');
-const swap = require('../functions/firstSwap');
+const swap = require('../libs/firstSwap');
 
 describe('firstSwap function test', () => {
 

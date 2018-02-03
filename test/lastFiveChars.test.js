@@ -1,6 +1,6 @@
 const assert = require('assert');
 let data = require('../data/data');
-let lastFiveChars = require('../functions/lastFiveChars');
+let lastFiveChars = require('../libs/lastFiveChars');
 
 describe('Last five characters function test', () => {
 

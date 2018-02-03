@@ -1,5 +1,5 @@
 const assert = require('assert');
-let findNumbers = require('../functions/justNumbers');
+let findNumbers = require('../libs/justNumbers');
 
 describe('Just the numbers tests', () => {
 

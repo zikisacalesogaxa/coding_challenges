@@ -1,5 +1,5 @@
 const assert = require('assert');
-const sortArr = require('../functions/sortArr');
+const sortArr = require('../libs/sortArr');
 
 describe('sortArr function tests', () => {
 

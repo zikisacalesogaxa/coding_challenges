@@ -1,5 +1,5 @@
 const assert = require('assert');
-const totalAmount = require('../functions/totalAmount');
+const totalAmount = require('../libs/totalAmount');
 
 describe('total Amount function test', () => {
 

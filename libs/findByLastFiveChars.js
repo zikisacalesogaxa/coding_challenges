@@ -1,4 +1,4 @@
-let lastFiveChars = require('../functions/lastFiveChars');
+let lastFiveChars = require('../libs/lastFiveChars');
 
 module.exports = (arr, code) => {
     for (person of arr) {

@@ -1,6 +1,6 @@
 const assert = require('assert');
 let users = require('../data/data');
-let findByLastFiveChars = require('../functions/findByLastFiveChars');
+let findByLastFiveChars = require('../libs/findByLastFiveChars');
 
 describe('Find user by last characters', () => {
 

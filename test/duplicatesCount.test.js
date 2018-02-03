@@ -1,5 +1,5 @@
 const assert = require('assert');
-const duplicatesCount = require('../functions/duplicatesCount');
+const duplicatesCount = require('../libs/duplicatesCount');
 
 describe('duplicates count function tests', () => {
 

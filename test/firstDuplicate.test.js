@@ -1,5 +1,5 @@
 const assert = require('assert');
-const firstDuplicate = require('../functions/firstDuplicate');
+const firstDuplicate = require('../libs/firstDuplicate');
 
 describe('firstDuplicate function tests', () => {
 

@@ -1,5 +1,5 @@
 const assert = require('assert');
-let countVowels = require('../functions/vowelCount');
+let countVowels = require('../libs/vowelCount');
 
 describe('Vowel count tests', () => {
 

@@ -1,5 +1,5 @@
 const assert = require('assert');
-const domainName = require('../functions/domainName');
+const domainName = require('../libs/domainName');
 
 describe('tests for domainName function', () => {
 
