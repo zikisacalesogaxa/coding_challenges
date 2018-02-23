@@ -1,0 +1,17 @@
+{
+  "name": "coding_challenges",
+  "version": "1.0.0",
+  "description": "coding challenges",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "mocha": "*"
+  },
+  "author": "cale oasin",
+  "license": "ISC"
+}
