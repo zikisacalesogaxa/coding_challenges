@@ -1,4 +1,4 @@
-const whereMyHasgtags = require('../libs/whereMyHasgtags');
+const whereMyHasgtags = require('../libs/whereMyHashtags');
 const assert = require('assert');
 
 describe('tests for whereMyHashtags function', () => {
