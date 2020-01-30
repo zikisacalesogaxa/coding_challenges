@@ -22,6 +22,7 @@ Function code challenges and tests
    * **findByLastFiveChars** - given a list of users with IDs, it returns the one that matches the passed in five characters
    * **camelCase** - given a string it should return it in camel case
    * **whereMyAnagramsAt** -  given two arguments, a word and a list of words, it should return all the matching anagrams
+   * **generateHashtags** -  given a string, function must return it in hashtag format or false if the string is empty or longer/equal to 140 char
 
 * Prerequisites
 
@@ -39,7 +40,7 @@ git clone https://github.com/cale312/coding_challenges.git
 Open terminal and navigate to the cloned folder and run commands
 
 ```sh
-npm install -g
+npm install
 ```
 
 **Running the tests**
